@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29827.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecutingSyncronouslyFunctionWithSeveralAwaits", "ExecutingSyncronouslyFunctionWithSeveralAwaits.csproj", "{B1E05FAF-73A5-4E29-8919-80B28B2A6170}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1E05FAF-73A5-4E29-8919-80B28B2A6170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E05FAF-73A5-4E29-8919-80B28B2A6170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E05FAF-73A5-4E29-8919-80B28B2A6170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E05FAF-73A5-4E29-8919-80B28B2A6170}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAD50709-CC2F-4F88-9EDF-D2E8413CD441}
+	EndGlobalSection
+EndGlobal
